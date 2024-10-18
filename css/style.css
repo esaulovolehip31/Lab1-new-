@@ -5,9 +5,11 @@
 }
 
 .body {
+
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  height: 100vh;
 }
 
 .horizontal {
@@ -15,14 +17,14 @@
   flex-direction: row;
   flex-wrap: wrap;
   width: 100vw;
-  height: 100vh;
+
 }
 
 .nest1 { /* 1 nest2 */
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  width: 75vw;
+
 }
 
 .nest2 { /* 3 nest3 */
@@ -35,9 +37,8 @@
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  width: 50vw;
-  height: 50vh;
-  flex-grow: 1;
+margin-bottom: -1px;
+
 }
 
 .box1 {
@@ -48,6 +49,7 @@
 }
 
 .box2 {
+
   width: 25vw;
   height: 75vh;
   background: #d7ff8c;
