@@ -52,7 +52,7 @@
   width: 80vw;
   height: 10vh;
   min-height: 50px;
-  background: #ffcd7a;
+  background: #ffe7bd;
 }
 
 .box {
@@ -80,7 +80,7 @@
   align-items: center;
   width: 20vw;
   height: 90vh;
-  background: #d7ff8c;
+  background: #eaffc8;
   overflow-x: hidden;
   overflow-y: hidden;
 }
@@ -106,7 +106,7 @@
   font-size: 25px;
   width: 20vw;
   height: 80vh;
-  background: #ff885f;
+  background: #ffc0a9;
   padding: 10px;
   justify-content: center;
   align-items: center;
@@ -130,7 +130,7 @@
   font-size: 20px;
   width: 60vw;
   height: 10%;
-  background: #c4ffee;
+  background: #dafff2;
 }
 
 .box5 {
@@ -141,7 +141,7 @@
   font-size: 20px;
   width: 60vw;
   height: 90%;
-  background: #e1a9ff;
+  background: #f1ddff;
   padding: 20px;
   overflow: auto;
 }
@@ -156,5 +156,5 @@
   font-size: 20px;
   width: 100vw;
   height: 10vh;
-  background: #b6b6ff;
+  background: #cfcfff;
 }
